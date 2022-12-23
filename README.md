@@ -15,7 +15,7 @@ to get a glimpse of! With this app, you can easily navigate your visit to USA!
 
 **This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://travel-website-frontend-part.soumikdas6.repl.co/) here!!
+Check out [FRONTEND LIVE DEMO](https://Travel-website-frontend-part.soumikdas6.repl.co) here!!
 
 ## Tech used
 

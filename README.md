@@ -1,7 +1,11 @@
-# Travel Bug in React & Redux + Django
+# Travel Bug App 
 
 ```
 Travel Bug, with a frontend built in React & Redux and a backend built in Django API.
+Visiting USA? This virtual guide is extremely handy, you can scan the entire area in USA
+and find invaluable information of major attractions, places of interest, events, museums,
+plays, and probable locations of rare species of wild animals which you may be lucky enough
+to get a glimpse of! With this app, you can easily navigate your visit to USA!
 ```
 
 ## Live Demo

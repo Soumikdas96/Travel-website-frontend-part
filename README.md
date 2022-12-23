@@ -6,6 +6,9 @@ Travel Bug, with a frontend built in React & Redux and a backend built in Django
 
 ## Live Demo
 
+![Screenshot (161)](https://user-images.githubusercontent.com/91152839/209291042-f69e38c7-67c1-4770-a283-7937cbbb1ca8.png)
+
+
 **This App uses a Replit free plan, so I am afraid that it takes time to load the pages.**
 
 Check out [FRONTEND LIVE DEMO](https://travel-website-frontend-part.soumikdas6.repl.co/) here!!
